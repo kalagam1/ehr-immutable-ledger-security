@@ -1,6 +1,6 @@
-# Enhancing Electronic Health Record Security with Immutable Ledger Databases
+# Enhancing EHR Security with Immutable Ledger Databases
 
-**Course:** CPS 592 – Research Topics in Database··
+**Course:** CPS 592 – Research Topics in Database<br>
 **Institution:** University of Dayton  
 **Date:** April 2026  
 
