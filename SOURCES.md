@@ -6,22 +6,22 @@ This project was supported by academic journals, government reports, and industr
 
 ## Government & Regulatory Sources
 
-[1] U.S. Department of Health and Human Services (HHS OCR)<br>
+- [1] U.S. Department of Health and Human Services (HHS OCR)<br>
 [HIPAA Security Rule NPRM (2024)](https://www.hhs.gov/hipaa/for-professionals/security/hipaa-security-rule-nprm/index.html)
 
-[2] HHS OCR<br>
+- [2] HHS OCR
 [Change Healthcare Cybersecurity Incident FAQ](https://www.hhs.gov/hipaa/for-professionals/special-topics/change-healthcare-cybersecurity-incident-frequently-asked-questions/index.html)
 ---
 
 ## Academic Research
 
-3. JAMA Network Open  
+- 3. JAMA Network Open  
 [Ransomware Attacks and Data Breaches in U.S. Health Care Systems (2025)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833984)
 
-5. JAMA Health Forum  
+- 5. JAMA Health Forum  
 [Trends in Ransomware Attacks on U.S. Hospitals, Clinics, and Health Care Delivery Organizations](https://pmc.ncbi.nlm.nih.gov/articles/PMC9856685/)
 
-10. IEEE Conference Paper  
+- 10. IEEE Conference Paper  
 [Enhancing Electronic Health Record Systems with Serverless Blockchain Integration (2024)](https://ieeexplore.ieee.org/document/10736469)
 
 11. Applied Sciences Journal  
