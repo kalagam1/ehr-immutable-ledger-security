@@ -16,7 +16,7 @@ This project was supported by academic journals, government reports, and industr
 ## Academic Research
 
 3. JAMA Network Open  
-[Ransomware Attacks and Data Breaches in U.S. Health Care Systems (2025)][https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833984]
+[Ransomware Attacks and Data Breaches in U.S. Health Care Systems (2025)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833984)
 
 5. JAMA Health Forum  
 [Trends in Ransomware Attacks on U.S. Hospitals, Clinics, and Health Care Delivery Organizations](https://pmc.ncbi.nlm.nih.gov/articles/PMC9856685/)
