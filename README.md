@@ -47,8 +47,8 @@ and cryptographic hash chaining.
 - Cybersecurity governance understanding
 
 ## Files
-- `EHR_ImmutableLedger_Paper.pdf` — Full research paper
-- `references.md` — All 13 references with working links
+- `EHR_ResearchPaper.pdf` — Full research paper
+- `SOURCES.md` — All 11 references with working links
 
 ## Author
 Mahitha Kalaga  
