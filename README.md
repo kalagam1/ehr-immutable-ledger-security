@@ -19,6 +19,19 @@ systems susceptible to ransomware attacks on healthcare data.
 - Performance and scalability trade-offs
 - Comparative security analysis: RDBMS vs Immutable Ledgers
 
+## Research Focus
+Traditional relational databases used in healthcare systems face challenges including:
+- Unauthorized record tampering
+- Centralized breach risk
+- Poor audit transparency
+- Weak interoperability
+
+This paper evaluates blockchain-based alternatives using:
+- Immutable ledgers
+- Smart contract controlled access
+- Cryptographic integrity validation
+- Decentralized trust models
+
 ## Key Argument
 The mutability of traditional relational databases is not a 
 configuration flaw — it is an inherent architectural property that 
@@ -26,9 +39,20 @@ ransomware directly exploits. Immutable ledger databases eliminate
 this attack vector at the storage layer through append-only design 
 and cryptographic hash chaining.
 
+## Skills Demonstrated
+- Security research
+- Technical writing
+- Risk analysis
+- System architecture evaluation
+- Cybersecurity governance understanding
+
 ## Files
 - `EHR_ImmutableLedger_Paper.pdf` — Full research paper
 - `references.md` — All 13 references with working links
+
+## Author
+Mahitha Kalaga  
+M.S. Computer Science – Cybersecurity Focus
 
 ## Disclaimer
 This paper was written for academic purposes as part of CPS 592 
