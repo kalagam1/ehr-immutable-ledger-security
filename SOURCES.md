@@ -9,7 +9,7 @@ This project was supported by academic journals, government reports, and industr
 [1] U.S. Department of Health and Human Services (HHS OCR)<br>
 [HIPAA Security Rule NPRM (2024)](https://www.hhs.gov/hipaa/for-professionals/security/hipaa-security-rule-nprm/index.html)
 
-[2] HHS OCR  
+[2] HHS OCR<br>
 [Change Healthcare Cybersecurity Incident FAQ](https://www.hhs.gov/hipaa/for-professionals/special-topics/change-healthcare-cybersecurity-incident-frequently-asked-questions/index.html)
 ---
 
