@@ -35,7 +35,7 @@ This project was supported by academic journals, government reports, and industr
 ## Industry & Technical Sources
 
 4. IBM Security  
-[Cost of a Data Breach Report 2025](./cost-of-a-data-breach-2025-full-report)
+[Cost of a Data Breach Report 2025](./cost-of-a-data-breach-2025-full-report.pdf)
 
 6. Amazon Web Services  
 [Amazon Quantum Ledger Database (QLDB) Documentation](https://aws.amazon.com/blogs/aws/now-available-amazon-quantum-ledger-database-qldb/)
